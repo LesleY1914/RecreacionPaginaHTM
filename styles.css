@@ -1,0 +1,39 @@
+.recuadro{
+    
+    width: 600px;
+    background: #ffffff;
+    border-top: solid 100px blue;
+    padding: 30px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 12px;
+    font-family: 'calibri';
+    color:rgb(0, 0, 0);
+    box-shadow: 7px 13px 37px #252525;
+    height: 300px;
+    
+}
+
+.boton{
+    width: 40%;
+    background: #da7807;
+    border: none;
+    padding: 7px;
+    color: white;
+    margin: 16px 0;
+    font-size: 13px;
+    font-weight:200PX;
+    border-radius: 6px;
+    
+}
+.text{
+    width: 80%;
+    border: none;
+    padding: 7px;
+    color: rgb(138, 133, 133);
+    margin: 9px 0;
+    font-size: 18px;
+    font-weight:200PX;
+    border-bottom:solid 2px blue;
+}
+
